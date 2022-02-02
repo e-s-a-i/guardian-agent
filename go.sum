@@ -1,0 +1,17 @@
+github.com/StanfordSNR/crypto v0.0.0-20171223202347-4a3cd0184db6 h1:9vMQLlhn+4BOnr0011r7oNWHBU6cIkkBAJ1QoFSqTkY=
+github.com/StanfordSNR/crypto v0.0.0-20171223202347-4a3cd0184db6/go.mod h1:/faX56vwVRcORVKRUz8/iE14GEMQT6mlJ7IwtpthOrA=
+github.com/StanfordSNR/guardian-agent v0.7.2-beta h1:Rl4gVby0y/ebyrWfKNcujicfb51CRPsCCYr49Kds8Hc=
+github.com/StanfordSNR/guardian-agent v0.7.2-beta/go.mod h1:ce8Lmb656FE9sIBZoXOgjDRhh9Lou1Qt0SHpn1XBlPs=
+github.com/hashicorp/yamux v0.0.0-20211028200310-0bc27b27de87 h1:xixZ2bWeofWV68J+x6AzmKuVM/JWCQwkWm6GW/MUR6I=
+github.com/hashicorp/yamux v0.0.0-20211028200310-0bc27b27de87/go.mod h1:CtWFDAQgb7dxtzFs4tWbplKIe2jSi3+5vKbgIO0SLnQ=
+github.com/howeyc/gopass v0.0.0-20210920133722-c8aef6fb66ef h1:A9HsByNhogrvm9cWb28sjiS3i7tcKCkflWFEkHfuAgM=
+github.com/howeyc/gopass v0.0.0-20210920133722-c8aef6fb66ef/go.mod h1:lADxMC39cJJqL93Duh1xhAs4I2Zs8mKS89XWXFGp9cs=
+github.com/jessevdk/go-flags v1.5.0 h1:1jKYvbxEjfUl0fmqTCOfonvskHHXMjBySTLW4y9LFvc=
+github.com/jessevdk/go-flags v1.5.0/go.mod h1:Fw0T6WPc1dYxT4mKEZRfG5kJhaTDP9pj1c2EWnYs/m4=
+github.com/sternhenri/interact v0.0.0-20170607043113-dfeb9ef20304 h1:zzYF4UgWpelZqq0OSjrAYgJfBQbced5ZzFqqobLqwMw=
+github.com/sternhenri/interact v0.0.0-20170607043113-dfeb9ef20304/go.mod h1:DeHea0sJRuLvq7KtfYsh8faJlWjkbXPsIkvf6yHOPSw=
+golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.0.0-20220114195835-da31bd327af9 h1:XfKQ4OlFl8okEOr5UvAqFRVj8pY/4yfcXrddB8qAbU0=
+golang.org/x/sys v0.0.0-20220114195835-da31bd327af9/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce h1:+JknDZhAj8YMt7GC73Ei8pv4MzjDUNPHgQWJdtMAaDU=
+gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce/go.mod h1:5AcXVHNjg+BDxry382+8OKon8SEWiKktQR07RKPsv1c=

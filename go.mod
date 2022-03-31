@@ -1,4 +1,4 @@
-module github.com/andyattebery/guardian-agent
+module github.com/e-s-a-i/guardian-agent
 
 go 1.17
 

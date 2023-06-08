@@ -9,7 +9,7 @@ require (
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/sternhenri/interact v0.0.0-20170607043113-dfeb9ef20304
 	golang.org/x/crypto v0.0.0-00010101000000-000000000000
-	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9
+	golang.org/x/sys v0.1.0
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce
 )
 
